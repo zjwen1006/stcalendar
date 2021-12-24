@@ -1,37 +1,151 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>日历集隐私政策</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 
-You can use the [editor on GitHub](https://github.com/zjwen1006/stcalendar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		<style type="text/css">
+			* {
+				font-size: 16px;
+				line-height: 22px;
+			}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+			b {
+				font-weight: 600;
+			}
+		</style>
+	</head>
+	<body lang="ZH-CN" style="text-justify-trim:punctuation;padding-left:15px;padding-right:15px;">
 
-### Markdown
+		<div style="layout-grid:15.6pt">
+			<p class="treaty-name" style="layout-grid-mode:char; text-align: center;">
+				<b><span style="font-size: 20px;">日历集隐私政策</span></b>
+			</p>
+			<div class="treaty-name-bottom-text">
+				<p style="font-size: 16px;">
+					生效日期：2021年12月20日
+				</p>
+			</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+			<p>
+				<span>本《日历集隐私政策》（以下简称“本隐私政策”或“本政策”）,适用于用户（又称“您”）所使用的日历集产品服务提供方（以下成为“我们”）所提供的产品及服务。
+					我们尊重并保护您的隐私，您使用我们的产品及服务时，我们将按照本政策收集、存储、使用和对外提供您的您的信息。</span>
+			</p>
+			<p><b>本政策与您使用我们的产品及服务关系紧密，请您仔细阅读并理解本政策全部内容，做出您认为适当的选择。本政策中与您的权益存在重大关系的条款，采用粗体字进行标注以提示您注意。请仔细阅读本政策并确认了解我们对您个人信息的处理规则，如您就本政策点击或勾选“同意”并确认提交，即视为您同意本政策，并同意我们将按照本政策来收集、存储、使用和对外提供您的相关信息。如您拒绝提供这些信息，您可能无法正常使用我们的部分服务。</b>
+			</p>
+			<p>如您对本政策存在任何意见、建议或疑问，您可以通过本政策公示的方式（可将相关问题发送至：466326094@qq.com）或日历集应用内提供的其他联系方式/反馈渠道请联系我们，我们将尽快为您解答。</p>
 
-```markdown
-Syntax highlighted code block
+			<p><b>第一部分、定义</b></p>
+			<p><b>个人信息</b>是指以电子或其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。个人信息包括<b>姓名、出生日期、身份证件信息（身份证、护照等）、个人生物识别信息、通信通讯联系方式、短信验证码、住址、账户信息、财产状况、位置信息</b>。
+			</p>
+			<p><b>个人敏感信息</b>是指一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的信息，主要包括：<b>身份证件信息（身份证、护照等）、个人生物识别信息、个人财产信息、银行账号、征信信息、交易信息、位置信息、短信验证码、网络身份标识</b>。
+			</p>
+			<p><b>第二部分、隐私政策</b></p>
+			<p><b>本政策将帮助您了解以下内容：</b></p>
+			<p>一、我们收集了您的哪些个人信息</p>
+			<p>二、我们如何对COOKIES及相同技术的使用</p>
+			<p>三、我们如何共享、转让您的个人信息</p>
+			<p>四、本政策如何更新</p>
+			<p>五、如何联系我们</p>
 
-# Header 1
-## Header 2
-### Header 3
+			<p><b><span>一、我们收集了您的哪些个人信息</b></p>
+			<p><b>手机设备信息：</b>在获得您的允许后，我们会收集您的设备信息。包括手机设备信息：设备型号信息，用于统计分析。包括操作系统版本、应用程序版本。当您使用我们应用时，我们也会获取操作系统对每个应用安装生成的唯一标识符。
+			</p>
+			<p>
+				我们在对以上信息做收集时会按照“最小限度”以及“必要”的原则进行，同时将依照规定做好相关数据的保护工作。
+			</p>
 
-- Bulleted
-- List
+			<p><b>征得授权同意的例外</b></b>
+			</p>
 
-1. Numbered
-2. List
+			<p>根据相关法律法规、监管要求及国家标准，以下情形中<b>遇到国家有权机关或者监管机关要求我们提供的，或者出于对您的权利、权益进行充分保护的目的，或者此处约定的其他合理情形的，</b>我们会收集、使用您的相关个人信息而无需另行征求您的授权同意：
 
-**Bold** and _Italic_ and `Code` text
+			</p>
 
-[Link](url) and ![Image](src)
-```
+			<p>1.与国家安全、国防安全直接相关的；
+			</p>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+			<p>2.与公共安全、公共卫生、重大公共利益直接相关的；
+			</p>
 
-### Jekyll Themes
+			<p>3.与犯罪侦查、起诉、审判和判决执行等直接相关的；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zjwen1006/stcalendar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+			</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+			<p>4.出于维护您或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的；
+
+
+			</p>
+
+			<p>5.所收集的个人信息是您自行向社会公众公开的；
+			</p>
+
+			<p>6.从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；
+
+
+			</p>
+
+			<p>7.根据您要求签订和履行合同所必需的；
+
+
+			</p>
+
+			<p>8.用于维护所提供的产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；
+
+
+			</p>
+
+			<p>9.法律法规及监管要求规定的其他情形。
+			</p>
+			<p><b>二、我们如何对COOKIES及相同技术的使用</b></p>
+			<p>
+				Cookies是具有少量数据的文件，通常用作匿名唯一标识符。这些信息将从您访问的网站发送到浏览器，并存储在设备中。
+				日历集不会显式使用Cookie技术。但我们用到的第三方代码或网页可能收集Cookie以改善其服务，您可以选择接受还是拒绝这些Cookie，并知道何时将Cookie发送到您的设备。
+			</p>
+
+			<p><b>三、我们如何共享、转让您的个人信息</b></p>
+			<p>
+				未经您的同意，我们不会向自身以外任何公司、组织和个人共享、转让您的个人信息。但以下情形除外：
+			</p>
+
+			<p>
+				当您使用我们的产品和服务时，基于业务需要，我们可能会将信息发送给支持我们业务的供应商、服务提供商和其他合作伙伴，这些支持包括基础技术服务、分析统计服务等。日历集使用的第三方SDK如下：
+			</p>
+
+			<table border="1" cellspacing="0" cellpadding="0" style="width: 95%;">
+				<thead style="text-align: center;">
+					<tr>
+						<th>SDK名称</th>
+						<th>官网</th>
+						<th>所属机构</th>
+						<th style="width: 110px;">收集的信息</th>
+						<th>用途</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>友盟SDK</span></td>
+						<td>https://www.umeng.com</td>
+						<td>北京锐讯灵通科技有限公司</td>
+						<td>设备Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/IP地址/GUID、SIM 卡 IMSI 信息）</td>
+						<td>提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力</td>
+					</tr>
+				</tbody>
+			</table>
+
+
+			<p><b>四、本政策如何更新</b></p>
+			<p>鉴于产品形态变化、法律法规修订等因素影响，我们可能会不定期地更新本隐私政策，同时，我们会通过在本页面上发布新的隐私政策来通知您任何变更，这些变更在此页面上发布后立即生效。因此，建议您定期查看此页面以了解更新后的内容。
+			</p>
+			<p>如您对修订后的隐私政策有异议，您应及时停止使用我们的产品和服务。若您同意新修订的隐私政策或继续使用我们的产品和服务，则表示您已经充分阅读、理解并同意我们的隐私政策。</p>
+			<p><b>五、如何联系我们</b></p>
+			<p>如您对本政策存在任何意见、建议或疑问，您可以通过<a
+					href="mailto://466326094@qq.com">466326094@qq.com</a>，您也可通过日历集应用内提供的其他联系方式/反馈渠道请联系我们，我们将尽快为您解答。</p>
+			</p>
+		</div>
+
+	</body>
+</html>
